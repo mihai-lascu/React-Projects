@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\react-complete-guide",
+    "\\react-complete-guide\\public",
     "\\react-complete-guide\\src",
-    "\\react-complete-guide\\src\\Person",
-    "\\react-complete-guide\\src\\UserInput",
-    "\\react-complete-guide\\src\\UserOutput"
+    "\\react-complete-guide\\src\\Person"
   ],
   "SelectedNode": "\\react-complete-guide\\src\\App.js",
   "PreviewInSolutionExplorer": false
