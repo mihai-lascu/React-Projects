@@ -1,0 +1,22 @@
+.Tags {
+    float: left;
+    width: 35%;
+    border-right: 1px #ccc solid;
+    border-bottom: 1px #ccc solid;
+    box-sizing: border-box;
+    padding: 3px 20px;
+}
+
+.SelectTags {
+    font-size: 14px;
+    outline: 0px;
+    border: 0px;
+    margin: 3px;
+    color: rgb(54, 133, 250);
+    -webkit-appearance: none;
+}
+
+.SelectTags:hover {
+    cursor: pointer;
+    color: rgb(110, 165, 248);
+}

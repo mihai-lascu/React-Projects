@@ -1,0 +1,13 @@
+.Container {
+    width: 60%;
+    margin: auto;
+    padding-top: 72px;
+}
+
+.Content {
+    border: 1px rgb(175, 173, 173) solid;
+    box-sizing: content-box;
+    margin: 20px 0;
+    height: 600px;
+    box-shadow: 0 2px 10px rgb(194, 192, 192);
+}

@@ -1,0 +1,16 @@
+.News {
+    display: inline-block;
+    height: 100%;
+    width: 20%;
+    padding: 16px;
+    text-align: center;
+    border: 2px solid #bbb;
+    box-shadow: 0 2px 3px #ccc;
+    margin: 32px;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+.News a:visited {
+    color: blue;
+}

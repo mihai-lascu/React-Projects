@@ -1,0 +1,13 @@
+.Article {
+    width: 80%;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin: auto auto 20px auto;
+    box-sizing: border-box;
+}
+
+.Article a:visited {
+    color: blue;
+}

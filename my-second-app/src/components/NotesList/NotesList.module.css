@@ -1,0 +1,23 @@
+.NotesList {
+    float: left;
+    width: 35%;
+    border-right: 1px #ccc solid;
+    box-sizing: border-box;
+    height: 530px;
+    overflow: auto;
+}
+
+.NoteTitle {
+    margin: 1px 2px;
+    padding: 10px 32px;
+    font-weight: bold;
+}
+
+.NoteTitle:hover {
+    cursor: pointer;
+    background-color: rgb(189, 221, 252);
+}
+
+.active {
+    background-color: rgb(189, 221, 252);
+}

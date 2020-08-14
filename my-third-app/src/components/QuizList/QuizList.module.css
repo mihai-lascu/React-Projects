@@ -1,0 +1,6 @@
+.QuizList {
+    margin: auto;
+    width: 65%;
+    max-height: 100%;
+    border: 1px solid black;
+}

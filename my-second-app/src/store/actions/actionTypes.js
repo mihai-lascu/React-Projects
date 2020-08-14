@@ -1,0 +1,23 @@
+export const ADD_NOTE = 'ADD_NOTE';
+export const DELETE_NOTE = 'DELETE_NOTE';
+export const DROP_NOTES = 'DROP_NOTES';
+export const UPDATE_NOTES = 'UPDATE_NOTES';
+export const SELECT_NOTE = 'SELECT_NOTE';
+export const SEARCH_NOTE = 'SEARCH_NOTE';
+
+export const FETCH_NOTES = 'FETCH_NOTES';
+export const FETCH_NOTES_SUCCESS = 'FETCH_NOTES_SUCCESS';
+export const FETCH_NOTES_FAILED = 'FETCH_NOTES_FAILED';
+
+export const SAVE_NOTES = 'SAVE_NOTES';
+export const SAVE_NOTES_SUCCESS = 'SAVE_NOTES_SUCCESS';
+export const SAVE_NOTES_FAILED = 'SAVE_NOTES_FAILED';
+
+export const UPDATE_NOTE_TAGS = 'UPDATE_NOTE_TAGS';
+export const SELECT_NOTE_TAG = 'SELECT_NOTE_TAG';
+
+export const TOGGLE_AUTH_FORM = 'TOGGLE_AUTH_FORM';
+export const AUTH_START = 'AUTH_START';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_FAILED = 'AUTH_FAILED';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';

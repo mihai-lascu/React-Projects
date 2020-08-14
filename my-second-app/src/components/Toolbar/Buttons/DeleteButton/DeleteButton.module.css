@@ -1,0 +1,15 @@
+.DeleteButton {
+    float: left;
+    margin-right: 5px;
+}
+
+.DeleteButton p{
+    font-size: 16px;
+    color: rgb(54, 133, 250);
+    margin: 0;
+}
+
+.DeleteButton p:hover{
+    cursor: pointer;
+    color: rgb(110, 165, 248);
+}

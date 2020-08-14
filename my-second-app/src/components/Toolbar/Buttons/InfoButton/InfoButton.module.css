@@ -1,0 +1,16 @@
+.InfoButton {
+    float: left;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.InfoButton p{
+    font-size: 16px;
+    color: rgb(54, 133, 250);
+    margin: 0;
+}
+
+.InfoButton p:hover{
+    cursor: pointer;
+    color: rgb(110, 165, 248);
+}

@@ -1,0 +1,10 @@
+.Model {
+    position: fixed;
+    z-index: 500;
+    background-color: white;
+    width: 60%;
+    left: 20%;
+    top: 30%;
+    box-sizing: border-box;
+    transition: all 0.3s ease-out;
+}

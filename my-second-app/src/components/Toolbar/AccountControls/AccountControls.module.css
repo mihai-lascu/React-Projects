@@ -1,0 +1,59 @@
+.AccountControls {
+    float: right;
+    margin: 10.5px 32px;
+}
+
+.AccountControls p {
+    float: right;
+    font-size: 16px;
+    color: rgb(54, 133, 250);
+    margin: 0;
+}
+
+.AccountControls p:hover {
+    cursor: pointer;
+    color: rgb(110, 165, 248);
+}
+
+.AccountControlsActive {
+    float: right;
+    margin: 10.5px 32px;
+}
+
+.AccountControlsActive p {
+    float: right;
+    font-size: 16px;
+    color: rgb(54, 133, 250);
+    margin: 0;
+}
+
+.AccountControlsActive p:hover {
+    cursor: pointer;
+    color: rgb(110, 165, 248);
+}
+
+.dropdownContent {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    margin-top: 16px;
+    padding: 1px;
+    border: 1px rgb(54, 133, 250) solid;
+    border-radius: 5px;
+    background: white;
+}
+
+.dropdownContent p {
+    color: rgb(54, 133, 250);
+    font-size: 14px;
+    margin: 3px 5px;
+    display: block;
+}
+
+.dropdownContent p:hover {
+    cursor: pointer;
+    color: rgb(110, 165, 248);
+}
+
+.AccountControlsActive:hover .dropdownContent {display: block;}
+
